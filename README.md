@@ -28,7 +28,7 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
   <a href="http://www.instagram.com/akshay_chame" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@akshay chame" target="_blank">
+  <a href="https://www.youtube.com/channel/UCsewPWaVzTgnJmj_Ux9j5ug" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
   <!-- Add more social media links here -->
