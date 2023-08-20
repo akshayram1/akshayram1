@@ -2,6 +2,9 @@
 
 I'm a Computer Science student based in Pune, Maharashtra. Welcome to my GitHub profile!
 
+![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+
 ## About Me
 
 I'm passionate about all things tech and enjoy diving into various aspects of computer science. From coding to exploring new technologies, I'm always eager to learn and grow.
