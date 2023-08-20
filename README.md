@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay Chame 👋
 
-<p align="left">
+<p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200" alt="GIF" style="border-radius: 50%;" />
 </p>
 
