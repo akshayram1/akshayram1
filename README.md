@@ -4,9 +4,11 @@
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200" alt="GIF" style="border-radius: 50%;" />
 </p>
 
-I'm a Computer Science student based in Pune, Maharashtra. Welcome to my GitHub profile!
-
 ## About Me
+
+I'm a **Computer Science student** based in **Pune, Maharashtra**. Welcome to my GitHub profile!
+
+### 🚀 Passion and Learning
 
 I'm passionate about all things tech and enjoy diving into various aspects of computer science. From coding to exploring new technologies, I'm always eager to learn and grow.
 
@@ -16,8 +18,8 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
 
 ## Skills
 
-- Programming Languages: Python, Java, C++
-- Cloud Platforms: Google Cloud
+- **Programming Languages:** Python, Java, C++
+- **Cloud Platforms:** Google Cloud
 
 ## Connect with Me
 
@@ -25,21 +27,7 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
   <a href="https://www.facebook.com/akshaychame" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
-  <a href="https://www.github.com/akshayram1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/akshay_chame" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/akshay-chame-b43bb8209" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="http://www.medium.com/@akshaychame2" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCsewPWaVzTgnJmj_Ux9j5ug" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
-  </a>
+  <!-- Add more social media links with icons -->
 </p>
 
 ## GitHub Stats
