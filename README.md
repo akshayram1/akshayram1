@@ -1,9 +1,8 @@
 # Hi there, I'm Akshay Chame 👋
 
-I'm a Computer Science student based in Pune, Maharashtra. Welcome to my GitHub profile!
-
 ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+I'm a Computer Science student based in Pune, Maharashtra. Welcome to my GitHub profile!
 
 ## About Me
 
