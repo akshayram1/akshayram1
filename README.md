@@ -19,10 +19,9 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
 - Programming Languages: Python, Java, C++
 - Cloud Platforms: Google Cloud
 
-
 ## Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/akshaychame" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
@@ -41,7 +40,6 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
   <a href="https://www.youtube.com/channel/UCsewPWaVzTgnJmj_Ux9j5ug" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
-
 </p>
 
 ## GitHub Stats
@@ -52,13 +50,16 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
 
 ## Featured Project
 
-![Plant Disease Detection](https://github-readme-stats.vercel.app/api/pin/?username=akshayram1&repo=plantdiseasedetectionmaster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+<p align="center">
+  <a href="https://github.com/akshayram1/plantdiseasedetectionmaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayram1&repo=plantdiseasedetectionmaster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Plant Disease Detection" />
+  </a>
+</p>
 
 ## Support Me
 
-Show your support by buying me a coffee!
-
 <p align="center">
+  Show your support by buying me a coffee!
   <a href="https://www.buymeacoffee.com/akshaychame">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" />
   </a>
