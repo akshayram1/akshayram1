@@ -15,6 +15,7 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
 - Programming Languages: Python, Java, C++
 - Cloud Platforms: Google Cloud
 
+
 ## Connect with Me
 
 <p align="left">
@@ -24,19 +25,13 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
   <a href="https://www.github.com/akshayram1" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <!-- Add more social media links here -->
+ 
 </p>
 
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayram1&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</p>
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayram1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
 
 ## Featured Project
