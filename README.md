@@ -1,7 +1,7 @@
 # Hi there, I'm Akshay Chame 👋
 
-<p align="right">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200" alt="GIF" />
+<p align="left">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="200" alt="GIF" style="border-radius: 50%;" />
 </p>
 
 I'm a Computer Science student based in Pune, Maharashtra. Welcome to my GitHub profile!
@@ -16,8 +16,9 @@ I'm passionate about all things tech and enjoy diving into various aspects of co
 
 ## Skills
 
-- Programming Languages: Python, Java, C++,php ,JS ,React
+- Programming Languages: Python, Java, C++
 - Cloud Platforms: Google Cloud
+
 
 ## Connect with Me
 
