@@ -96,18 +96,16 @@ class AkshayChame:
 
 ---
 
-## 🚀 Featured Projects
+## 🐍 Contribution Snake
 
-### 🌱 [Plant Disease Detection](https://github.com/akshayram1/plantdiseasedetectionmaster)
-ML-based system for identifying plant diseases from leaf images
-
-### 🧪 [WT Lab](https://github.com/akshayram1/wt_lab)
-Web Technology lab experiments and projects
-
-### 🖼️ [Image Info Finder App](https://github.com/akshayram1/Image-info-finder-app)
-Application to extract and analyze information from images
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
+
+
+
 
 ## 💬 Let's Connect!
 
