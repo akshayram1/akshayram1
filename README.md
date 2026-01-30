@@ -34,8 +34,6 @@ class AkshayChame:
         return ["☕ Coffee", "🤖 Build AI Systems", "🔬 Experiment", "📚 Learn", "🔁 Repeat"]
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayram1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="320"/>
-
 - 🔭 Building **production-grade GenAI solutions**
 - 🤖 Working with **LLMs, RAG, AI Agents & MCP Protocol**
 - 🏆 **20+ AI POCs** delivered with enterprise impact
@@ -49,7 +47,8 @@ class AkshayChame:
 
 <div align="center">
 
-### AI/ML & GenAI
+**AI/ML & GenAI**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -57,17 +56,19 @@ class AkshayChame:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### Development & Frameworks
+**Development & Frameworks**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Cloud & Databases**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -77,9 +78,7 @@ class AkshayChame:
 
 ## 🏆 Achievements
 
-<div align="center">
-
-| 🥇 | Achievement |
+| 🏅 | Achievement |
 |:---:|:---|
 | 🏆 | **Winner** - Smart India Hackathon 2023 (Team Leader) |
 | 🥉 | **Bronze Medal** - NASSCOM Foundation AI-VILT |
@@ -87,8 +86,6 @@ class AkshayChame:
 | 📜 | **Oracle Cloud Infrastructure** - Gen AI Certified 2024 |
 | 📊 | **IBM** - Data Science Professional |
 | 📈 | **Microsoft** - Power BI Data Analyst |
-
-</div>
 
 ---
 
@@ -98,6 +95,14 @@ class AkshayChame:
   <img src="https://github-readme-stats.vercel.app/api?username=akshayram1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayram1&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" height="180"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayram1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2" width="400"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayram1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0891b2&line=0891b2&point=ffffff" width="95%"/>
@@ -109,7 +114,10 @@ class AkshayChame:
 
 <div align="center">
   <a href="https://github.com/akshayram1/plantdiseasedetectionmaster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayram1&repo=plantdiseasedetectionmaster&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayram1&repo=plantdiseasedetectionmaster&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2" width="400"/>
+  </a>
+  <a href="https://github.com/akshayram1/wt_lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayram1&repo=wt_lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2" width="400"/>
   </a>
 </div>
 
@@ -117,9 +125,13 @@ class AkshayChame:
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshayram1/akshayram1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshayram1/akshayram1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshayram1/akshayram1/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+> ⚠️ **Note:** To enable the snake animation, you need to set up a GitHub Action in your profile repo. See instructions below.
 
 ---
 
@@ -133,8 +145,10 @@ class AkshayChame:
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 
-  ---
-  
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer"/>
-  
 </div>
